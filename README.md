@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![PHPWord](https://rawgit.com/PHPOffice/PHPWord/develop/docs/images/phpword.svg "PHPWord")
 
 [![Latest Stable Version](https://poser.pugx.org/phpoffice/phpword/v/stable.png)](https://packagist.org/packages/phpoffice/phpword)
@@ -164,3 +165,6 @@ We welcome everyone to contribute to PHPWord. Below are some of the things that 
 - [Fork us](https://github.com/PHPOffice/PHPWord/fork) and [request a pull](https://github.com/PHPOffice/PHPWord/pulls) to the [develop](https://github.com/PHPOffice/PHPWord/tree/develop) branch.
 - Submit [bug reports or feature requests](https://github.com/PHPOffice/PHPWord/issues) to GitHub.
 - Follow [@PHPWord](https://twitter.com/PHPWord) and [@PHPOffice](https://twitter.com/PHPOffice) on Twitter.
+=======
+# PHP-Office-Word-Gen
+>>>>>>> 80596485f0bfd6be684e6e1a570ec1f4f0696c8b
